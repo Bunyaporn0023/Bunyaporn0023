@@ -10,8 +10,10 @@
 - software developer 
 ## Ability to program in different languages ![image](https://user-images.githubusercontent.com/109591077/181796586-646dba2e-3fc4-40e8-9286-7fa74c506a6b.png)
 
-- C 
-- Python
+- C# ![image](https://user-images.githubusercontent.com/109591077/181914552-ade90613-311d-4586-89ce-e4e38378c1bc.png)
+
+- Python ![image](https://user-images.githubusercontent.com/109591077/181914513-6653130e-dbb9-4ed5-b255-d06832c7d621.png)
+
 ## Courage Challenge, Challenge Leader Challenge ![image](https://user-images.githubusercontent.com/109591077/181794290-9e1b4244-864e-44b7-957b-263fe0cdd5d6.png)
 - Computer Networks       ![image](https://user-images.githubusercontent.com/109591077/181795026-fd81683b-9e9c-4029-9e27-4b35cdc34ebb.png)
 
